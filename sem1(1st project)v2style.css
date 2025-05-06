@@ -190,8 +190,8 @@ td>img:active{
 	color:white;
 	border:5px solid teal;
 }
-#plan1.clicked, #plan2.clicked, #plan3.clicked{
-	border-color:black;
+#plan1{
+	padding:0px 5px;
 }
 h3{
 	font-size:25px;
